@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=EZ05e7EMOLM
 
 https://www.youtube.com/watch?v=2vEoL3Irgiw
 
+https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project
+
